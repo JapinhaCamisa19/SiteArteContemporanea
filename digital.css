@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+}
+
+.voltar2{
+    background-color: #d07729;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.rodape{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    justify-content: center;
+}
+
+.imagem{
+     width: 100%;
+    height:300px;
+}
+
+p{
+text-align: justify;
+}
+
+.fontes{
+    background-color: #f3e3ce;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display:flex;
+    margin: 40px;
+    justify-content: center;
+    list-style: none;
+}
+
+.rodape{
+    color: #f3e2d2;
+    background-color: #08123a;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.tamanho{
+    font-size: 20px;
+    justify-content: center;
+}
+
+.imagem{
+    width: 100%;
+    height:300px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
